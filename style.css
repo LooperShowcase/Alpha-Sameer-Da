@@ -1,0 +1,61 @@
+img {
+  float: right;
+}
+
+p {
+  margin-left: 20px; /* Add some space between the image and the paragraph */
+}
+body {
+  background: linear-gradient(
+    to right,
+    #3498db,
+    #2ecc71
+  ); /* Background gradient mix of blue and green */
+  color: #333; /* Default text color */
+}
+
+h2 {
+  color: #92ccf3; /* Blue color for h1 */
+}
+h1 {
+  color: #032e4b; /* Blue color for h1 */
+}
+p {
+  color: #001f3f; /* Dark blue color for p */
+}
+#sd {
+  width: 50%;
+  background-color: #2ecc71;
+}
+#nd {
+  width: 50%;
+  background-color: blue;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3498db;
+}
+#navbar-li {
+  float: left;
+}
+
+#navbar-li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#navbar-li a:hover {
+  background-color: #111;
+}

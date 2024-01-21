@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #22f901; /* Green background color for the top part */
+  background-image: url("https://wallpapers.com/images/hd/minecraft-background-cfljc4haleghnajo.jpg"); /* Minecraft grass texture */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #22f901; /* Fallback color for browsers that don't support the texture image */
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h1 {
+  color: #22f901;
+}
+
+h2 {
+  color: #22f901;
+}
+
+p {
+  color: brown;
+}

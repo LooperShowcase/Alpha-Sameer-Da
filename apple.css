@@ -1,0 +1,48 @@
+body{
+  background: linear-gradient(
+    to right,
+    #f4f001,
+    #009bfb
+  ); /* Background gradient mix of blue and green */
+  color: #333; /* Default text color */
+}
+ul {
+    #list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb#f6fa02; /* Change this to the desired color */
+  }
+  #li {
+    float: left;
+  }
+  
+  #li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #li a:hover {
+    background-color: #f4f001;
+  }
+  #navbar-li {
+    float: left;
+  }
+  
+  #navbar-li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #navbar-li a:hover {
+    background-color: #f4f001;
+  }
+  body{background-color: #fbfbfb;}
+
+ 
